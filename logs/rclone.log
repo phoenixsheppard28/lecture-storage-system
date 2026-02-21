@@ -1,0 +1,136 @@
+2026/02/21 15:22:10 NOTICE: NFS Server running at 127.0.0.1:60495
+2026/02/21 15:41:13 NOTICE: /Users/phoenixsheppard/lectures: Unmounted rclone mount
+2026/02/21 15:41:57 NOTICE: NFS Server running at 127.0.0.1:61606
+2026/02/21 15:42:04 NOTICE: /Users/phoenixsheppard/lectures: Unmounted rclone mount
+2026/02/21 15:43:02 INFO  : S3 bucket lecture-bucket-131424789123: poll-interval is not supported by this remote
+2026/02/21 15:43:02 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 0 (was 0) in use 0, to upload 0, uploading 0, total size 0 (was 0)
+2026/02/21 15:43:02 NOTICE: NFS Server running at 127.0.0.1:61676
+2026/02/21 15:44:02 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 0 (was 0) in use 0, to upload 0, uploading 0, total size 0 (was 0)
+2026/02/21 15:45:02 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 0 (was 0) in use 0, to upload 0, uploading 0, total size 0 (was 0)
+2026/02/21 15:46:09 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 0 (was 0) in use 0, to upload 0, uploading 0, total size 0 (was 0)
+2026/02/21 15:47:39 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 0 (was 0) in use 0, to upload 0, uploading 0, total size 0 (was 0)
+2026/02/21 15:48:44 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 0 (was 0) in use 0, to upload 0, uploading 0, total size 0 (was 0)
+2026/02/21 15:49:58 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 0 (was 0) in use 0, to upload 0, uploading 0, total size 0 (was 0)
+2026/02/21 15:55:05 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 0 (was 0) in use 0, to upload 0, uploading 0, total size 0 (was 0)
+2026/02/21 15:56:05 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 0 (was 0) in use 0, to upload 0, uploading 0, total size 0 (was 0)
+2026/02/21 15:57:05 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 0 (was 0) in use 0, to upload 0, uploading 0, total size 0 (was 0)
+2026/02/21 15:58:05 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 0 (was 0) in use 0, to upload 0, uploading 0, total size 0 (was 0)
+2026/02/21 15:59:05 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 0 (was 0) in use 0, to upload 0, uploading 0, total size 0 (was 0)
+2026/02/21 16:00:05 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 0 (was 0) in use 0, to upload 0, uploading 0, total size 0 (was 0)
+2026/02/21 16:01:05 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 0 (was 0) in use 0, to upload 0, uploading 0, total size 0 (was 0)
+2026/02/21 16:02:05 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 0 (was 0) in use 0, to upload 0, uploading 0, total size 0 (was 0)
+2026/02/21 16:03:05 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 0 (was 0) in use 0, to upload 0, uploading 0, total size 0 (was 0)
+2026/02/21 16:04:05 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 0 (was 0) in use 0, to upload 0, uploading 0, total size 0 (was 0)
+2026/02/21 16:05:05 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 0 (was 0) in use 0, to upload 0, uploading 0, total size 0 (was 0)
+2026/02/21 16:06:05 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 0 (was 0) in use 0, to upload 0, uploading 0, total size 0 (was 0)
+2026/02/21 16:07:05 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 0 (was 0) in use 0, to upload 0, uploading 0, total size 0 (was 0)
+2026/02/21 16:08:05 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 0 (was 0) in use 0, to upload 0, uploading 0, total size 0 (was 0)
+2026/02/21 16:09:05 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 0 (was 0) in use 0, to upload 0, uploading 0, total size 0 (was 0)
+2026/02/21 16:10:05 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 0 (was 0) in use 0, to upload 0, uploading 0, total size 0 (was 0)
+2026/02/21 16:11:05 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 0 (was 0) in use 0, to upload 0, uploading 0, total size 0 (was 0)
+2026/02/21 16:12:05 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 0 (was 0) in use 0, to upload 0, uploading 0, total size 0 (was 0)
+2026/02/21 16:13:05 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 0 (was 0) in use 0, to upload 0, uploading 0, total size 0 (was 0)
+2026/02/21 16:13:26 INFO  : Signal received: terminated
+2026/02/21 16:13:26 ERROR : /Users/phoenixsheppard/lectures: Failed to unmount: Unable to run because unable to use the DiskManagement framework.
+Common reasons include, but are not limited to, the DiskArbitration
+framework being unavailable due to being booted in single-user mode.: failed to umount the NFS volume &{%!e(*os.ProcessState=&{42290 256 0x14000830120}) []}
+2026/02/21 16:13:26 INFO  : Exiting...
+2026/02/21 16:14:52 INFO  : S3 bucket lecture-bucket-131424789123: poll-interval is not supported by this remote
+2026/02/21 16:14:52 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 0 (was 0) in use 0, to upload 0, uploading 0, total size 0 (was 0)
+2026/02/21 16:14:52 NOTICE: NFS Server running at 127.0.0.1:49234
+2026/02/21 16:15:52 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 0 (was 0) in use 0, to upload 0, uploading 0, total size 0 (was 0)
+2026/02/21 16:16:52 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 0 (was 0) in use 0, to upload 0, uploading 0, total size 0 (was 0)
+2026/02/21 16:17:52 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 0 (was 0) in use 0, to upload 0, uploading 0, total size 0 (was 0)
+2026/02/21 16:18:52 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 0 (was 0) in use 0, to upload 0, uploading 0, total size 0 (was 0)
+2026/02/21 16:19:52 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 0 (was 0) in use 0, to upload 0, uploading 0, total size 0 (was 0)
+2026/02/21 16:20:52 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 0 (was 0) in use 0, to upload 0, uploading 0, total size 0 (was 0)
+2026/02/21 16:21:07 INFO  : bye.txt: vfs cache: queuing for upload in 5s
+2026/02/21 16:21:07 INFO  : bye.txt: vfs cache: queuing for upload in 5s
+2026/02/21 16:21:12 INFO  : bye.txt: Copied (new)
+2026/02/21 16:21:12 INFO  : bye.txt: vfs cache: upload succeeded try #1
+2026/02/21 16:21:52 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 1 (was 1) in use 0, to upload 0, uploading 0, total size 17 (was 17)
+2026/02/21 16:22:52 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 1 (was 1) in use 0, to upload 0, uploading 0, total size 17 (was 17)
+2026/02/21 16:23:52 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 1 (was 1) in use 0, to upload 0, uploading 0, total size 17 (was 17)
+2026/02/21 16:24:52 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 1 (was 1) in use 0, to upload 0, uploading 0, total size 17 (was 17)
+2026/02/21 16:25:52 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 1 (was 1) in use 0, to upload 0, uploading 0, total size 17 (was 17)
+2026/02/21 16:25:55 INFO  : Signal received: terminated
+2026/02/21 16:25:55 NOTICE: /Users/phoenixsheppard/lectures: Unmounted rclone mount
+2026/02/21 16:25:55 INFO  : Exiting...
+2026/02/21 16:26:31 INFO  : Starting bandwidth limiter at 8Mi Byte/s
+2026/02/21 16:26:31 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 1 (was 1) in use 0, to upload 0, uploading 0, total size 17 (was 17)
+2026/02/21 16:26:31 NOTICE: NFS Server running at 127.0.0.1:50134
+2026/02/21 16:27:15 INFO  : Signal received: terminated
+2026/02/21 16:27:15 NOTICE: /Users/phoenixsheppard/lectures: Unmounted rclone mount
+2026/02/21 16:27:15 INFO  : Exiting...
+2026/02/21 16:27:15 INFO  : Starting bandwidth limiter at 8Mi Byte/s
+2026/02/21 16:27:15 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 1 (was 1) in use 0, to upload 0, uploading 0, total size 17 (was 17)
+2026/02/21 16:27:15 NOTICE: NFS Server running at 127.0.0.1:50179
+2026/02/21 16:27:27 INFO  : Signal received: terminated
+2026/02/21 16:27:28 NOTICE: /Users/phoenixsheppard/lectures: Unmounted rclone mount
+2026/02/21 16:27:28 INFO  : Exiting...
+2026/02/21 16:28:02 INFO  : Starting bandwidth limiter at 8Mi Byte/s
+2026/02/21 16:28:02 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 1 (was 1) in use 0, to upload 0, uploading 0, total size 17 (was 17)
+2026/02/21 16:28:02 NOTICE: NFS Server running at 127.0.0.1:50213
+2026/02/21 16:28:05 INFO  : Signal received: terminated
+2026/02/21 16:28:05 NOTICE: /Users/phoenixsheppard/lectures: Unmounted rclone mount
+2026/02/21 16:28:05 INFO  : Exiting...
+2026/02/21 16:28:32 INFO  : Starting bandwidth limiter at 8Mi Byte/s
+2026/02/21 16:28:32 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 1 (was 1) in use 0, to upload 0, uploading 0, total size 17 (was 17)
+2026/02/21 16:28:32 NOTICE: NFS Server running at 127.0.0.1:50244
+2026/02/21 16:29:32 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 1 (was 1) in use 0, to upload 0, uploading 0, total size 17 (was 17)
+2026/02/21 16:30:30 INFO  : Signal received: terminated
+2026/02/21 16:30:31 NOTICE: /Users/phoenixsheppard/lectures: Unmounted rclone mount
+2026/02/21 16:30:31 INFO  : Exiting...
+2026/02/21 16:30:31 INFO  : Starting bandwidth limiter at 8Mi Byte/s
+2026/02/21 16:30:31 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 1 (was 1) in use 0, to upload 0, uploading 0, total size 17 (was 17)
+2026/02/21 16:30:31 NOTICE: NFS Server running at 127.0.0.1:50336
+2026/02/21 16:30:36 INFO  : Signal received: terminated
+2026/02/21 16:30:36 NOTICE: /Users/phoenixsheppard/lectures: Unmounted rclone mount
+2026/02/21 16:30:36 INFO  : Exiting...
+2026/02/21 16:42:51 INFO  : Starting bandwidth limiter at 8Mi Byte/s
+2026/02/21 16:42:51 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 1 (was 1) in use 0, to upload 0, uploading 0, total size 17 (was 17)
+2026/02/21 16:42:51 NOTICE: NFS Server running at 127.0.0.1:50983
+2026/02/21 16:42:55 INFO  : Signal received: terminated
+2026/02/21 16:42:55 NOTICE: /Users/phoenixsheppard/lectures: Unmounted rclone mount
+2026/02/21 16:42:55 INFO  : Exiting...
+2026/02/21 16:43:22 INFO  : Starting bandwidth limiter at 8Mi Byte/s
+2026/02/21 16:43:22 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 1 (was 1) in use 0, to upload 0, uploading 0, total size 17 (was 17)
+2026/02/21 16:43:22 NOTICE: NFS Server running at 127.0.0.1:51008
+2026/02/21 16:44:22 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 1 (was 1) in use 0, to upload 0, uploading 0, total size 17 (was 17)
+2026/02/21 16:45:22 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 1 (was 1) in use 0, to upload 0, uploading 0, total size 17 (was 17)
+2026/02/21 16:46:22 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 1 (was 1) in use 0, to upload 0, uploading 0, total size 17 (was 17)
+2026/02/21 16:47:22 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 1 (was 1) in use 0, to upload 0, uploading 0, total size 17 (was 17)
+2026/02/21 16:48:22 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 1 (was 1) in use 0, to upload 0, uploading 0, total size 17 (was 17)
+2026/02/21 16:49:22 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 1 (was 1) in use 0, to upload 0, uploading 0, total size 17 (was 17)
+2026/02/21 16:50:22 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 1 (was 1) in use 0, to upload 0, uploading 0, total size 17 (was 17)
+2026/02/21 16:51:22 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 1 (was 1) in use 0, to upload 0, uploading 0, total size 17 (was 17)
+2026/02/21 16:52:22 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 1 (was 1) in use 0, to upload 0, uploading 0, total size 17 (was 17)
+2026/02/21 16:53:22 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 1 (was 1) in use 0, to upload 0, uploading 0, total size 17 (was 17)
+2026/02/21 16:54:22 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 1 (was 1) in use 0, to upload 0, uploading 0, total size 17 (was 17)
+2026/02/21 16:55:22 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 1 (was 1) in use 0, to upload 0, uploading 0, total size 17 (was 17)
+2026/02/21 16:56:22 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 1 (was 1) in use 0, to upload 0, uploading 0, total size 17 (was 17)
+2026/02/21 16:57:22 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 1 (was 1) in use 0, to upload 0, uploading 0, total size 17 (was 17)
+2026/02/21 16:58:22 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 1 (was 1) in use 0, to upload 0, uploading 0, total size 17 (was 17)
+2026/02/21 16:59:22 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 1 (was 1) in use 0, to upload 0, uploading 0, total size 17 (was 17)
+2026/02/21 17:00:22 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 1 (was 1) in use 0, to upload 0, uploading 0, total size 17 (was 17)
+2026/02/21 17:01:22 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 1 (was 1) in use 0, to upload 0, uploading 0, total size 17 (was 17)
+2026/02/21 17:02:22 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 1 (was 1) in use 0, to upload 0, uploading 0, total size 17 (was 17)
+2026/02/21 17:03:22 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 1 (was 1) in use 0, to upload 0, uploading 0, total size 17 (was 17)
+2026/02/21 17:04:22 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 1 (was 1) in use 0, to upload 0, uploading 0, total size 17 (was 17)
+2026/02/21 17:05:22 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 1 (was 1) in use 0, to upload 0, uploading 0, total size 17 (was 17)
+2026/02/21 17:06:22 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 1 (was 1) in use 0, to upload 0, uploading 0, total size 17 (was 17)
+2026/02/21 17:07:22 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 1 (was 1) in use 0, to upload 0, uploading 0, total size 17 (was 17)
+2026/02/21 17:08:22 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 1 (was 1) in use 0, to upload 0, uploading 0, total size 17 (was 17)
+2026/02/21 17:09:22 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 1 (was 1) in use 0, to upload 0, uploading 0, total size 17 (was 17)
+2026/02/21 17:10:22 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 1 (was 1) in use 0, to upload 0, uploading 0, total size 17 (was 17)
+2026/02/21 17:11:22 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 1 (was 1) in use 0, to upload 0, uploading 0, total size 17 (was 17)
+2026/02/21 17:12:22 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 1 (was 1) in use 0, to upload 0, uploading 0, total size 17 (was 17)
+2026/02/21 17:13:22 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 1 (was 1) in use 0, to upload 0, uploading 0, total size 17 (was 17)
+2026/02/21 17:14:22 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 1 (was 1) in use 0, to upload 0, uploading 0, total size 17 (was 17)
+2026/02/21 17:15:22 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 1 (was 1) in use 0, to upload 0, uploading 0, total size 17 (was 17)
+2026/02/21 17:16:22 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 1 (was 1) in use 0, to upload 0, uploading 0, total size 17 (was 17)
+2026/02/21 17:17:22 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 1 (was 1) in use 0, to upload 0, uploading 0, total size 17 (was 17)
+2026/02/21 17:18:22 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 1 (was 1) in use 0, to upload 0, uploading 0, total size 17 (was 17)
+2026/02/21 17:19:22 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 1 (was 1) in use 0, to upload 0, uploading 0, total size 17 (was 17)
+2026/02/21 17:20:22 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 1 (was 1) in use 0, to upload 0, uploading 0, total size 17 (was 17)
+2026/02/21 17:21:22 INFO  : S3 bucket lecture-bucket-131424789123: vfs cache: cleaned: objects 1 (was 1) in use 0, to upload 0, uploading 0, total size 17 (was 17)

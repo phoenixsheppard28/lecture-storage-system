@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.phoenixs.rclone.lectures</string>
+
+  <key>ProgramArguments</key>
+  <array>
+    <string>/bin/bash</string>
+    <string>/Users/phoenixsheppard/codestuff/lecture-s3/mount_lectures.sh</string>
+  </array>
+
+  <key>RunAtLoad</key>
+  <true/>
+
+  <!-- “Prod-ish” keepalive: restart on failure / if it exits -->
+  <key>KeepAlive</key>
+  <dict>
+    <key>NetworkState</key>
+    <true/>
+    <key>SuccessfulExit</key>
+    <false/>
+  </dict>
+
+  <!-- Backoff so it doesn’t rapid-restart -->
+  <key>ThrottleInterval</key>
+  <integer>30</integer>
+
+  <key>ProcessType</key>
+  <string>Background</string>
+
+  <!-- launchd-level logs (separate from rclone log-file) -->
+  <key>StandardOutPath</key>
+  <string>/Users/phoenixsheppard/codestuff/lecture-s3/logs/launchd.out</string>
+  <key>StandardErrorPath</key>
+  <string>/Users/phoenixsheppard/codestuff/lecture-s3/logs/launchd.err</string>
+</dict>
+</plist>
