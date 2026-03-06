@@ -29,11 +29,5 @@
 
   <key>ProcessType</key>
   <string>Background</string>
-
-  <!-- launchd-level logs (separate from rclone log-file) -->
-  <key>StandardOutPath</key>
-  <string>/Users/phoenixsheppard/codestuff/lecture-s3/logs/launchd.out</string>
-  <key>StandardErrorPath</key>
-  <string>/Users/phoenixsheppard/codestuff/lecture-s3/logs/launchd.err</string>
 </dict>
 </plist>
