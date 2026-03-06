@@ -4,11 +4,10 @@ Store lecture recordings in S3 and access them locally via a mounted directory (
 
 ---
 
-## Bootstrap + Enable it
+## Load it (enable at login with `-w`)
 
 ```
-launchctl bootstrap gui/$(id -u) ~/Library/LaunchAgents/com.phoenixs.rclone.lectures.plist
-launchctl enable gui/$(id -u)/com.phoenixs.rclone.lectures
+launchctl load -w ~/Library/LaunchAgents/com.phoenixs.rclone.lectures.plist
 ```
 
 ## Start it:
@@ -26,9 +25,8 @@ launchctl kill SIGTERM gui/$(id -u)/com.phoenixs.rclone.lectures
 ## Restart It:
 
 ```
-launchctl bootout gui/$(id -u)/com.phoenixs.rclone.lectures
-launchctl bootstrap gui/$(id -u) ~/Library/LaunchAgents/com.phoenixs.rclone.lectures.plist
-launchctl kickstart -k gui/$(id -u)/com.phoenixs.rclone.lectures
+launchctl unload ~/Library/LaunchAgents/com.phoenixs.rclone.lectures.plist
+launchctl load -w ~/Library/LaunchAgents/com.phoenixs.rclone.lectures.plist
 ```
 
 ## Check Status:
